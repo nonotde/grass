@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>C++</title>
+      <link href="/2020/09/09/C/"/>
+      <url>/2020/09/09/C/</url>
+      
+        <content type="html"><![CDATA[<h3 id="开发环境"><a href="#开发环境" class="headerlink" title="开发环境"></a>开发环境</h3><p>Dev C++（Windows）</p><p><a href="http://qiniu.zxxdb.com/c/Dev-Cpp_5.11_TDM-GCC_4.9.2_Setup.exe">下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> C/C++ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C/C++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Chrome</title>
+      <link href="/2020/02/16/Chrome/"/>
+      <url>/2020/02/16/Chrome/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/GoogleChromeEnterpriseBundle64.zip">Window64下载</a></p><p><a href="http://qiniu.zxxdb.com/googlechrome.dmg">Mac下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Tools </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Java环境和IDE</title>
+      <link href="/2019/11/27/Java%E7%8E%AF%E5%A2%83%E5%92%8CIDE/"/>
+      <url>/2019/11/27/Java%E7%8E%AF%E5%A2%83%E5%92%8CIDE/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Windows："><a href="#Windows：" class="headerlink" title="Windows："></a>Windows：</h2><blockquote><p>JDK8 x86<a href="http://qiniu.zxxdb.com/java/jdk-8u261-windows-i586.exe">下载</a></p><p>JDK8 x64<a href="http://qiniu.zxxdb.com/java/jdk-8u261-windows-x64.exe">下载</a></p><p>JDK13<a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_windows-x64_bin.exe">下载</a> </p></blockquote><p><u>IDE：</u></p><blockquote><p>eclipse<a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-win32-x86_64.zip">下载</a></p><p>ideaC  <a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.exe">下载</a></p><p>BlueJ   <a href="http://qiniu.zxxdb.com/java/BlueJ-windows-422.msi">下载</a></p></blockquote><h2 id="Mac："><a href="#Mac：" class="headerlink" title="Mac："></a>Mac：</h2><blockquote><p>JDK8<a href="http://qiniu.zxxdb.com/java/jdk-8u261-macosx-x64.dmg">下载</a></p><p>JDK<a href="http://qiniu.zxxdb.com/java/jdk-13.0.1_osx-x64_bin.dmg">下载</a></p></blockquote><p><u>IDE:</u></p><blockquote><p>eclipse  <a href="http://qiniu.zxxdb.com/java/eclipse-java-2019-09-R-macosx-cocoa-x86_64.dmg">下载</a></p><p>ideaC<a href="http://qiniu.zxxdb.com/java/ideaIC-2019.2.4.dmg">下载</a></p><p>BlueJ <a href="http://qiniu.zxxdb.com/java/BlueJ-mac-422n.zip">下载</a></p></blockquote><h3 id="ForgeMDK"><a href="#ForgeMDK" class="headerlink" title="ForgeMDK"></a>ForgeMDK</h3><blockquote><p><a href="http://qiniu.zxxdb.com/java/forge-1.8.9-11.15.1.2318-1.8.9-mdk.zip">11.15.1.2318</a></p></blockquote><h3 id="Sublime-配置-windows"><a href="#Sublime-配置-windows" class="headerlink" title="Sublime 配置(windows)"></a>Sublime 配置(windows)</h3><blockquote><p><a href="http://qiniu.zxxdb.com/java/Java.sublime-build">配置1下载</a></p><p><a href="http://qiniu.zxxdb.com/java/javaT.sublime-build">配置2下载</a></p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Play-homework</title>
+      <link href="/2019/11/05/Play-homework/"/>
+      <url>/2019/11/05/Play-homework/</url>
+      
+        <content type="html"><![CDATA[<p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/playmouse.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/playmouse.gif"  alt="鼠标跟随" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PythonNew</title>
+      <link href="/2019/09/12/PythonNew/"/>
+      <url>/2019/09/12/PythonNew/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-安装Python编译器"><a href="#1-安装Python编译器" class="headerlink" title="1. 安装Python编译器"></a>1. 安装Python编译器</h3><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4.exe">Windows32位</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-amd64.exe">Windows64位</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-macosx10.9.pkg">MacOS10.9</a></p><p><a href="http://qiniu.zxxdb.com/setup/python-3.7.4-macosx10.6.pkg">MacOS10.6</a></p><h3 id="2-安装VSCode"><a href="#2-安装VSCode" class="headerlink" title="2. 安装VSCode"></a>2. 安装VSCode</h3><p><a href="http://qiniu.zxxdb.com/setup/VSCodeUserSetup-ia32-1.38.1.exe">Windows32位</a></p><p><a href="http://qiniu.zxxdb.com/setup/VSCodeUserSetup-x64-1.38.1.exe">Windows64位</a></p><p><a href="http://qiniu.zxxdb.com/setup/VSCode-darwin-stable.zip">MacOS</a></p><h3 id="3-安装pygame"><a href="#3-安装pygame" class="headerlink" title="3. 安装pygame"></a>3. 安装pygame</h3><p>Windows </p><blockquote><p>pip install pygame</p></blockquote><p>MacOS</p><blockquote><p>pip3 install pygame</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Snake</title>
+      <link href="/2019/07/08/Snake/"/>
+      <url>/2019/07/08/Snake/</url>
+      
+        <content type="html"><![CDATA[<p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/TPReUwvJ2B.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/TPReUwvJ2B.gif"  alt="蛇晃动效果" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Html工具</title>
+      <link href="/2019/05/29/Html%E5%B7%A5%E5%85%B7/"/>
+      <url>/2019/05/29/Html%E5%B7%A5%E5%85%B7/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/MAMP_MAMP_PRO_5.3.pkg">点击下载Mamp(mac)</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Html </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Html </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python配置PyQt+QtDesigner</title>
+      <link href="/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/"/>
+      <url>/2019/05/03/Python%E9%85%8D%E7%BD%AEPyQt-QtDesigner/</url>
+      
+        <content type="html"><![CDATA[<h3 id="1-安装Python"><a href="#1-安装Python" class="headerlink" title="1. 安装Python"></a>1. 安装Python</h3><p><a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></p><h3 id="2-安装PyQt5"><a href="#2-安装PyQt5" class="headerlink" title="2. 安装PyQt5"></a>2. 安装PyQt5</h3><blockquote><p>pip3 install PyQt5</p></blockquote><h3 id="3-安装Qt"><a href="#3-安装Qt" class="headerlink" title="3. 安装Qt"></a>3. 安装Qt</h3><p><a href="http://download.qt.io/official_releases/qt/">http://download.qt.io/official_releases&#x2F;qt&#x2F;</a></p><h3 id="4-安装PyCharm"><a href="#4-安装PyCharm" class="headerlink" title="4. 安装PyCharm"></a>4. 安装PyCharm</h3><p><a href="https://www.jetbrains.com/pycharm/download/#section=mac">https://www.jetbrains.com/pycharm/download/#section=mac</a></p><h3 id="5-配置QtDesigner"><a href="#5-配置QtDesigner" class="headerlink" title="5. 配置QtDesigner"></a>5. 配置QtDesigner</h3><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190503-210456@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190503-210456@2x.png"  alt="进入perferences" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190503-210527@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190503-210527@2x.png"  alt="进入External Tools" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190503-210558@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190503-210558@2x.png"  alt="配置QtDesigner" lazyload></a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.uic.pyuic $FileName$ -o $FileNameWithoutExtensions$.py</span><br></pre></td></tr></table></figure><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190503-210622@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190503-210622@2x.png"  alt="配置PyUIC 把ui转为py文件" lazyload></a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Arguments: -m PyQt5.pyrcc $FileName$ -o $FileNameWithoutExtension$_rc.py</span><br></pre></td></tr></table></figure><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190503-210924@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190503-210924@2x.png"  alt="配置Pyrcc 把py转为ui" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Dos命令</title>
+      <link href="/2019/04/14/Dos%E5%91%BD%E4%BB%A4/"/>
+      <url>/2019/04/14/Dos%E5%91%BD%E4%BB%A4/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/DOS%E5%91%BD%E4%BB%A4%E5%85%A8%E9%9B%86%28%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7%29.chm">DOS命令合集</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>QuickLook插件</title>
+      <link href="/2019/02/25/QuickLook%E6%8F%92%E4%BB%B6/"/>
+      <url>/2019/02/25/QuickLook%E6%8F%92%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/quicklook.zip">点击下载QuickLook插件</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python安装</title>
+      <link href="/2019/02/21/Python%E5%AE%89%E8%A3%85/"/>
+      <url>/2019/02/21/Python%E5%AE%89%E8%A3%85/</url>
+      
+        <content type="html"><![CDATA[<h3>1. 安装python3.6</h3>&nbsp;windows <a href="http://qiniu.zxxdb.com/python-3.6.4-amd64.exe " target="_blank">下载</a><br />&nbsp;mac <a href="http://qiniu.zxxdb.com/python-3.6.4-macosx10.6.pkg " target="_blank">下载</a><br />&nbsp;linux:<br />wget https://www.python.org/ftp/python/3.7.1/Python-3.7.1.tgz<p>tar -xvzf Python-3.7.1.tgzcd Python-3.7.1./configure --with-ssl --prefix=/usr/local/python37make &amp; make install</p><p>&nbsp;注意，安装时要勾选“添加到环境变量<a class="simple-lightbox" href="http://qiniu.zxxdb.com/python/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180330220602.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/python/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180330220602.png"  width="426" height="224" alt="" border="0"  lazyload></a><br /><h3>2. 安装pygame&nbsp;</h3><p>在cmd中（mac是terminal），执行 pip install pygame</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181215220933.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181215220933.gif"  alt="cmd中输入(mac是terminal)" lazyload></a></p><h3>3. 安装sublime</h3><div>更新到3170</div><p>&nbsp;<a href="http://qiniu.zxxdb.com/Sublime%20Text%20Build%203170%20Setup.exe" target="_blank">下载win32版本</a>&nbsp;</p><p><a href="http://qiniu.zxxdb.com/Sublime%20Text%20Build%203170%20x64%20Setup.exe" target="_blank">下载 win64 版本</a>&nbsp;</p><p><a href="http://qiniu.zxxdb.com/Sublime%20Text%20Build%203170.dmg" target="_blank">下载 mac 版本</a></p><p>点击sublime中 Tools-&gt;Install Package Control&nbsp;</p>![安装package Control](http://qiniu.zxxdb.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87%E7%BC%96%E8%BE%91_20181215215752.jpg)<h3>4. Sublime安装插件</h3><p><strong>Windows安装</strong></p><p>1）打开Sublime，点击Preferences-&gt;Browse Packages…</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/python_setup/Snipaste_2019-02-20_14-58-24.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/python_setup/Snipaste_2019-02-20_14-58-24.png"  alt="sublime插件路径" lazyload></a></p><p>2）关闭Sublime</p><p>3）删除下列图中Sublime Text 3文件夹</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/python_setup/Snipaste_2019-02-20_15-13-33.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/python_setup/Snipaste_2019-02-20_15-13-33.png"  alt="删除文件夹" lazyload></a></p><p>4）<a href="http://qiniu.zxxdb.com/python_setup/Sublime%20Text%203.zip">点击下载</a></p><p>5）解压 Sublime Text 3.zip，复制解压后的 Sublime Text 3 文件夹到刚才删除 Sublime Text 3的文件夹下，粘贴</p><p>6）打开 Sublime，正常使用</p><p><strong>Mac安装</strong></p><p>1）打开Sublime，点击下图所示，打开文件夹</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/python_setup/image-20190220223914304.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/python_setup/image-20190220223914304.png"  alt="打开这个文件夹" lazyload></a></p><p>2）关闭Sublime</p><p>3）删除下图中的Sublime Text 3 文件夹</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/WX20190220-235558@2x.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/WX20190220-235558@2x.png"  alt="删除 Sublime Text 3" lazyload></a></p><p>4）<a href="http://qiniu.zxxdb.com/Sublime%20Text%203.zip">点击下载</a></p><p>5）解压 Sublime Text 3.zip，复制解压后的 Sublime Text 3 文件夹到刚才删除 Sublime Text 3的文件夹下，粘贴（。。。&#x2F;Library&#x2F;Application Support）</p><p>6）打开Sublime，正常使用</p><h3><b>5. 测试游戏</b></h3><p><a href="http://qiniu.zxxdb.com/shooting-game-2.0.zip" target="_blank">下载</a><br /></p><p><b>6. 第一课</b></p><p><a href="http://qiniu.zxxdb.com/python/1/lesson1.zip" target="_blank">点击下载</a></p><p>pygame安装包：<a href="http://p4urfsisk.bkt.clouddn.com/pygame-1.9.3.zip" target="_blank">下载</a></p><p><br /></p><p>pyqt5 安装：sudo pip3 install pyqt5</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python3输入中文</title>
+      <link href="/2019/01/13/Python3%E8%BE%93%E5%85%A5%E4%B8%AD%E6%96%87/"/>
+      <url>/2019/01/13/Python3%E8%BE%93%E5%85%A5%E4%B8%AD%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[<p>#-<em>- coding:utf-8 -</em>-<br>import sys<br>import codecs<br>sys.stdout &#x3D; codecs.getwriter(“utf-8”)(sys.stdout.detach())</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PythonIDE</title>
+      <link href="/2018/12/09/PythonIDE/"/>
+      <url>/2018/12/09/PythonIDE/</url>
+      
+        <content type="html"><![CDATA[<p><strong>WingIDE</strong> （方便的编写调试代码工具）</p><blockquote><p><a href="http://qiniu.zxxdb.com/wingide-personal-6.1.2-1.exe">Windows版点击下载</a></p><p><a href="http://qiniu.zxxdb.com/wingide-personal-6.1.2-1.dmg">Mac版点击下载</a></p><p><a href="http://qiniu.zxxdb.com/wingide-personal6_6.1.2-1_amd64.deb">Linux版点击下载</a></p><p><code>注：WingIDE和Windows的教育版兼容不是很好，建议用Windows教育版的不要尝试了</code></p></blockquote><p><strong>Pycharm</strong></p><blockquote><p><a href="http://qiniu.zxxdb.com/pycharm-community-2018.3.1.exe">Windows下载</a></p><p><a href="http://qiniu.zxxdb.com/pycharm-community-2018.3.1.dmg">Mac下载</a></p><p><code>激活：license server  https://jetlicense.nss.im/</code></p><p>配置</p><p><strong>Run -&gt; Edit Configuration</strong></p><p>Scripts：运行主.py</p><p>Python Interpreter: 选择python版本</p><p>Working directory：选择执行目录</p><p><strong>Default Settings</strong></p><p>project interpreter：选择python版本（安装有pygame版本），点击apply</p></blockquote><p><strong>Atom</strong></p><blockquote><p><a href="http://qiniu.zxxdb.com/atom-mac.zip">Mac下载</a></p><p><a href="http://qiniu.zxxdb.com/AtomSetup-x64.exe">Windows下载</a></p><p>必装插件：</p><p>ctrl+shift+p 安装插件</p><p>autocomplete-python</p><p>build-python</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python-homework</title>
+      <link href="/2018/11/30/Python-homework/"/>
+      <url>/2018/11/30/Python-homework/</url>
+      
+        <content type="html"><![CDATA[<p>做出以下图形</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181130193622.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181130193622.gif"  alt="闪动" lazyload></a></p><p>随机位置的图像</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181207205648.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181207205648.gif"  alt="随机" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181214131552.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181214131552.gif"  alt="红绿灯1" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181215150827.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181215150827.gif"  alt="转圈" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/1B.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/1B.png"  alt="飞机图片" lazyload></a></p><p><a href="http://qiniu.zxxdb.com/Stars.png">背景图片</a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/plane.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/plane.gif"  alt="飞机" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/bg.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/bg.gif"  alt="背景" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/bgandplane.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/bgandplane.gif"  alt="背景和飞机" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Sublime Text3下编译C（Linux）</title>
+      <link href="/2018/11/21/Text3%E4%B8%8B%E7%BC%96%E8%AF%91C%EF%BC%88Linux%EF%BC%89/"/>
+      <url>/2018/11/21/Text3%E4%B8%8B%E7%BC%96%E8%AF%91C%EF%BC%88Linux%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>网上很多都是如何在Windows环境下用sublime Text3编译C语言。很少有在Linux下编译C语言，我照猫画虎改了一下，在linux下也可以用sublime Text3编译c语言了</p><p>点击Tools-&gt;Build System-&gt;new Build System,填入以下内容，保存成c.sublime-build</p><p>{“working_dir”: “$file_path”,“cmd”: “gcc -Wall &quot;$file_name&quot; -o &quot;$file_base_name&quot;“,“file_regex”: “^(..[^:]<em>):([0-9]+):?([0-9]+)?:? (.</em>)$”,“selector”: “source.c”,“variants”:[{“name”: “Run”,            “shell_cmd”: “gcc -Wall &quot;$file&quot; -o &quot;$file_base_name&quot; &amp;&amp; ${file_path}&#x2F;${file_base_name}”}]}</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> C </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Scrath课程</title>
+      <link href="/2018/11/19/Scrath%E8%AF%BE%E7%A8%8B/"/>
+      <url>/2018/11/19/Scrath%E8%AF%BE%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/%E9%A3%9E%E8%88%B9.sb2">飞船</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Scratch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Scratch </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python-Snake</title>
+      <link href="/2018/11/16/Python-Snake/"/>
+      <url>/2018/11/16/Python-Snake/</url>
+      
+        <content type="html"><![CDATA[<p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116110332.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116110332.png"  alt="15" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181116110359.jpg"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181116110359.jpg"  alt="2示例" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116095908.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116095908.gif"  alt="时钟效果" lazyload></a></p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116121945.gif"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/%E6%B7%B1%E5%BA%A6%E5%BD%95%E5%B1%8F_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20181116121945.gif"  alt="贪吃蛇1" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>实用工具</title>
+      <link href="/2018/11/13/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/"/>
+      <url>/2018/11/13/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/BANDIZIP-SETUP.EXE">Bandizip</a></p><p><a href="http://qiniu.zxxdb.com/iobituninstaller.exe">iobit uninstaller</a></p><p><a href="http://qiniu.zxxdb.com/PotPlayerSetup64.exe">Potplayer</a></p><p><a href="http://qiniu.zxxdb.com/Thunder.v5.8.14.706.NoAD-Ayu.exe">迅雷5.8</a></p><p>安装时不必要勾选的都别选</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/c9c537d029486fc406d7417b06c84495.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/c9c537d029486fc406d7417b06c84495.png"  alt="只选择必要的" lazyload></a></p><p>最好别升级了，迅雷就这版好用，把升级删掉，一了百了</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/e72bbe3273328ae725991a9bd1a07075.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/e72bbe3273328ae725991a9bd1a07075.png"  alt="删掉" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Tools </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Teamviewer</title>
+      <link href="/2018/11/07/Teamviewer-1/"/>
+      <url>/2018/11/07/Teamviewer-1/</url>
+      
+        <content type="html"><![CDATA[<p>Windows: <a href="http://qiniu.zxxdb.com/TeamViewer_Setup.exe">点击下载</a></p><p>Mac：<a href="http://qiniu.zxxdb.com/TeamViewer.dmg">点击下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python basic</title>
+      <link href="/2018/11/04/69/"/>
+      <url>/2018/11/04/69/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/mementopython3-v1.2.2-english.pdf">点击查看详情(下载)</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python3 解决编码问题</title>
+      <link href="/2018/11/03/68/"/>
+      <url>/2018/11/03/68/</url>
+      
+        <content type="html"><![CDATA[<p>解决编码错误 UnicodeEncodeError: ‘ascii’ codec can’t encode characters in position 146-148: ordinal not in range(128)</p><p>import sys<br>import codecs<br>sys.stdout &#x3D; codecs.getwriter(“utf-8”)(sys.stdout.detach())</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git resource</title>
+      <link href="/2018/10/24/66/"/>
+      <url>/2018/10/24/66/</url>
+      
+        <content type="html"><![CDATA[<p>Git:</p><p>Windows 64: <a href="http://qiniu.zxxdb.com/Git-2.19.1-64-bit.exe">点击下载</a></p><p>Windows 32：<a href="http://qiniu.zxxdb.com/Git-2.19.1-32-bit.exe">点击下载</a></p><hr><p>SourceTree  </p><p>windows：<a href="http://qiniu.zxxdb.com/SourceTreeSetup-3.0.8.exe">点击下载</a>  </p><p>Mac：　　<a href="http://qiniu.zxxdb.com/Sourcetree_3.0_200.zip">点击下载</a></p><hr><p>TortoriseGit</p><p>Windows64 <a href="http://qiniu.zxxdb.com/TortoiseGit-2.7.0.0-64bit.msi">点击下载</a></p><p>Windows32 <a href="http://qiniu.zxxdb.com/TortoiseGit-2.7.0.0-32bit.msi">点击下载</a></p><p>语言包</p><p>Windows64 <a href="http://qiniu.zxxdb.com/TortoiseGit-LanguagePack-2.7.0.0-64bit-zh_CN.msi">点击下载</a></p><p>Windows32 <a href="http://qiniu.zxxdb.com/TortoiseGit-LanguagePack-2.7.0.0-32bit-zh_CN.msi">点击下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>科.学.上.网</title>
+      <link href="/2018/08/05/61/"/>
+      <url>/2018/08/05/61/</url>
+      
+        <content type="html"><![CDATA[<p>安全稳定无公害的科学上网，分为两步，需要一定的技术基础，如果你对电脑都不是太懂，请忽略下面文章</p><p>第一步，购置服务器</p><ol><li><p>登录vultr(<a href="https://www.vultr.com/?ref=7252077">点击注册登录</a>)，没有注册过的，请注册新账号</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/1.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/1.png"  lazyload></a></p></li><li><p>输入用户名密码，进入后，选择Billing</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/2.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/2.png"  lazyload></a></p></li><li><p>选择Alipay，你就可以用支付宝直接付美元了，汇率是实时的。不放心的话，可以先选择10美元试试，不过我觉得这个服务器提供商比阿里云都老牌多了</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/3.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/3.png"  lazyload></a></p></li><li><p>充值完毕后，选择servers， 选择右边的“+”，去购买新的服务器</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/4.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/4.png"  lazyload></a></p></li><li><p>选择日本或者新加坡，理论上日本或者新加坡的的物理距离肯定比别的大洲离我国更近，所以应该速度更好</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/5.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/5.png"  lazyload></a></p></li><li><p>选择每月5美元的服务器就行，一个月有1T流量，不干啥大事，绝对够使了，选择完毕，点击“Deploy Now”</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/7.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/7.png"  lazyload></a></p></li><li><p>回到servers界面，看到服务器的状态应该是“Installing”，等待服务器状态变为“Running”，点击服务器</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/8.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/8.png"  lazyload></a></p></li><li><p>看到里面的服务器地址，还有服务器用户名和密码，这些都是给shell操作用的</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/9.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/9.png"  lazyload></a></p></li></ol><p>第一步到这就完成了。</p><p>第二步，配置上网工具</p><ol><li><p>打开shell终端，把刚才第一步最后的服务器地址，用户名和密码配置好后，连接</p></li><li><p>连上服务器后，输入下列code</p><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/10.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/10.png"  lazyload></a></p></li></ol><p>最后一步的时候，会问你输入创建密码，端口号，请记牢！</p><ol start="3"><li>创建成功后，会显示类似如下内容，请复制黏贴到下次还能记得的地方</li></ol><p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/ss/11.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/ss/11.png"  lazyload></a></p><ol start="4"><li><p>下载各个终端用的客户端，输入上面创建后的server IP，Port， Password，即可上网  </p><p>安卓客户端：<a href="http://qiniu.zxxdb.com/ss-nightly-4.2.2.apk">下载</a></p><p>windows：<a href="https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip">下载</a><br>mac：<a href="http://www.sednax.com/data/ssx-mac-v30.zip">下载</a><br>iPhone：下载pp助手后，搜索 shadowrocket</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>飞机2018</title>
+      <link href="/2018/07/25/60/"/>
+      <url>/2018/07/25/60/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://p4urfsisk.bkt.clouddn.com/2018.sb2">下载</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Scratch </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python apple resource</title>
+      <link href="/2018/06/02/56/"/>
+      <url>/2018/06/02/56/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://p4urfsisk.bkt.clouddn.com/python/apple.png">点击下载1</a><br><a href="http://p4urfsisk.bkt.clouddn.com/python/knife.png">点击下载2</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python sudoku 图片</title>
+      <link href="/2018/05/05/44/"/>
+      <url>/2018/05/05/44/</url>
+      
+        <content type="html"><![CDATA[<p><a class="simple-lightbox" href="http://p4urfsisk.bkt.clouddn.com/6.png"><img   src="/images/loading.svg" data-src="http://p4urfsisk.bkt.clouddn.com/6.png"  alt="点击下载" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python3的图片</title>
+      <link href="/2018/04/30/42/"/>
+      <url>/2018/04/30/42/</url>
+      
+        <content type="html"><![CDATA[<p><a class="simple-lightbox" href="http://qiniu.zxxdb.com/1B.png"><img   src="/images/loading.svg" data-src="http://qiniu.zxxdb.com/1B.png"  alt="点击下载" lazyload></a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>python5用到的字库</title>
+      <link href="/2018/04/09/41/"/>
+      <url>/2018/04/09/41/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/python/5/Cousine-Bold.ttf">点击下载Cousine-Bold</a></p><p><a href="http://qiniu.zxxdb.com/python/5/Cousine-Regular.ttf">点击下载Cousine-regular</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>escape</title>
+      <link href="/2018/04/09/39/"/>
+      <url>/2018/04/09/39/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/scratch/3/ESCAPE%20%5BGAME%5D.sb2">http://qiniu.zxxdb.com/scratch/3/ESCAPE%20%5BGAME%5D.sb2</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Scratch </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试编程水平</title>
+      <link href="/2018/04/07/37/"/>
+      <url>/2018/04/07/37/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/test3/index.html">点击测试</a></p><p>放心测试，测试结果可以截图发给老师，后台不保留任何测试结果。所以您如果要是默默测试的话，我们是不知道的</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> admin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Python习题</title>
+      <link href="/2018/04/05/36/"/>
+      <url>/2018/04/05/36/</url>
+      
+        <content type="html"><![CDATA[<ol><li>　　题目：用1,2,3,4四个数字，能组合出多少个互不相同且无重复数字的三位数？print出来<br>　　举例：<br>　　　　　&gt;&gt;&gt;123<br>　　　　　&gt;&gt;&gt;134<br>　　　　　&gt;&gt;&gt;421 <br>　　　　　　……..  </li><li>　　题目：完成函数calcDay(_year, _month, _day)。返回这是整年中的第几天</li></ol><p>　　提示：闰年有366天（2月有29天），如果不能被4整除，则不是闰年；如果能被4整除，且不能被100整除，则为闰年；如果能被100整除，且能被400整除，则为闰年；如果能被100整除，但不能被400整除，则不是闰年，以此类推<br>　　举例：<br>　　　　&gt;&gt;&gt; print(calcDay(2015,6,7))   <br>　　　   &gt;&gt;&gt; 2015&#x2F;6&#x2F;7 is the 158th day</p><ol start="3"><li>　　题目：输出9*9乘法口诀表</li></ol><p>　　举例： &gt;&gt;&gt;1*1&#x3D;1</p><p>　　　　　 &gt;&gt;&gt;1*2&#x3D;2</p><p>　　　　　　       ……</p><p>　　　　　 &gt;&gt;&gt;9*9&#x3D;81</p><p>4. <br>　　题目：有一对兔子，从出生后3个月起，每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假设兔子都活着，问第40个月有多少对兔子？</p><p>　　提示：兔子的规律为数列，从第一个月开始，第一个月是一对，第二个月是一对，第三个月是两对，1,1,2,3,5,8,13,21…..</p><ol start="5"><li><p>　　题目：一个球从100米落下，每次落地后反弹回原高度的一半，再落下，问它在第10次落地时，总共经过了多少米？第10次反弹到几米？</p></li><li><p>破译下面这段英文（注意，每个英文字符向后移2个是正确的英文字符）</p></li><li><p>fmnc wms bgblr rpylqjyrc gr zw fylb. rfyrq ufyr amknsrcpq ypc dmp. bmgle gr gl zw fylb gq glcddgagclr ylb rfyr’q ufw rfgq rcvr gq qm jmle. sqgle qrpgle.kyicrpylq() gq pcamkkclbcb. lmu ynnjw ml rfc spj.</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>滚动的天空</title>
+      <link href="/2018/03/24/35/"/>
+      <url>/2018/03/24/35/</url>
+      
+        <content type="html"><![CDATA[<p><a href="http://qiniu.zxxdb.com/GAMES%20-%29.sb2">http://qiniu.zxxdb.com/GAMES%20-%29.sb2</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Scratch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> admin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux安装python3</title>
+      <link href="/2018/03/23/34/"/>
+      <url>/2018/03/23/34/</url>
+      
+        <content type="html"><![CDATA[<p>How to Install Pygame to Python 3 on Ubuntu<br>Installation<br>Start by installing all necessary dependencies, and mercurial and checkinstall for the installation:<br>1<br>sudo apt-get install python3-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev libsmpeg-dev python-numpy libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev checkinstall mercurial</p><p>Then download the latest version of the Pygame source code with the following command (this uses mercurial):<br>1<br>hg clone <a href="https://bitbucket.org/pygame/pygame">https://bitbucket.org/pygame/pygame</a></p><p>Go into the downloaded Pygame directory:<br>1<br>cd pygame</p><p>Compile the source code by typing this command into the terminal:<br>1<br>python3 setup.py build</p><p>Finally install Pygame by doing this:<br>1<br>sudo checkinstall python3 setup.py install</p><p>Extra stuff<br>Click here to read why you should use checkinstall.<br>Use this command to see information about your pygame installation:<br>1<br>apt-get cache show pygame</p><p>And this command to uninstall Pygame:<br>1<br>dpkg -r pygame</p><p>or:<br>1<br>sudo apt-get remove pygame</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>linux和mac下sublime使用python3</title>
+      <link href="/2018/03/20/32/"/>
+      <url>/2018/03/20/32/</url>
+      
+        <content type="html"><![CDATA[<p>python2一定不要删除，否则后果不堪设想，因为很多系统文件需要用到python2</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> admin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Scratch安装</title>
+      <link href="/2018/03/13/Scratch%E5%AE%89%E8%A3%85/"/>
+      <url>/2018/03/13/Scratch%E5%AE%89%E8%A3%85/</url>
+      
+        <content type="html"><![CDATA[<h2><u>1. &nbsp;安装AdobeAIR</u></h2><p></p><p>windows：&nbsp;</p><p><a href="http://qiniu.zxxdb.com/scratch/win/AdobeAIRInstaller.exe " target="_blank">http://qiniu.zxxdb.com/scratch/win/AdobeAIRInstaller.exe&nbsp;</a></p><p>Mac：&nbsp;</p><p>&nbsp;<a href="http://qiniu.zxxdb.com/scratch/mac/AdobeAIR.dmg" target="_blank">http://qiniu.zxxdb.com/scratch/mac/AdobeAIR.dmg</a></p><h2><u>2. &nbsp;安装Scratch2.0</u></h2><p>&nbsp;windows：</p><p><a href="http://qiniu.zxxdb.com/Scratch-458.0.1.exe" target="_blank">http://qiniu.zxxdb.com/Scratch-458.0.1.exe</a></p><p>&nbsp;Mac：&nbsp;</p><p><a href="http://qiniu.zxxdb.com/scratch/mac/Scratch-460.dmg" target="_blank">&nbsp;http://qiniu.zxxdb.com/scratch/mac/Scratch-460.dmg</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Scratch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> admin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>临时分享地址</title>
+      <link href="/2018/03/13/%E4%B8%B4%E6%97%B6%E5%88%86%E4%BA%AB%E5%9C%B0%E5%9D%80/"/>
+      <url>/2018/03/13/%E4%B8%B4%E6%97%B6%E5%88%86%E4%BA%AB%E5%9C%B0%E5%9D%80/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://www.ssavr.com" target="_blank">https://www.ssavr.com</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 默认分类 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> admin </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
